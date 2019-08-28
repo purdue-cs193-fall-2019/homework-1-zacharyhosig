@@ -1,3 +1,10 @@
+# Zachary Hosig's First CS193 Homework
+
+- CS193 is low stress
+- PSOs are optional
+- There is only one lecture per week
+- We learn practical and useful skills.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
